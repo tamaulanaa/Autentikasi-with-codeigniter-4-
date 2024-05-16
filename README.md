@@ -1,7 +1,5 @@
 # Authentikasi with codeigniter 4 
 
-
-# SimpleAuth
 A simple Auth library for Codeigniter 4
 
 SimpleAuth is small lightweight Auth library for Codeigniter 4 with powerfull features
