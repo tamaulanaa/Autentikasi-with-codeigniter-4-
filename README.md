@@ -54,7 +54,7 @@ app/config/Email.php
 Simple auth uses some of Codeigniters helpers so we need to auto load them. These are loaded in the BaseController.php The included BaseControler already has these set for you.
 
 ```
-protected $helpers = ['form', 'text','cookie'];
+public $helpers = ['form', 'array'];
 ```
 
 ## Define Routes
