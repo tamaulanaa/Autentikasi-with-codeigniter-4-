@@ -25,7 +25,7 @@ Designed to be easy to instal, customise and expand upon. Using a modular approa
 - Update database config, change the lines where database.default.database =, database.default.username =, database.default.password =, and database.default.hostname = in .env file.
 - Run php spark serve to serve live application in the terminal.
 - Alternatively, you can browse the app using a web browser, by entering this URL address http://localhost/my-app/public.
-- Login using default account username admin@example.com, password admin
+- Login using default account username triahmadmaulana0@gmail.com, password Bokir2004
 
 ## Composer Instalation
 
