@@ -16,31 +16,6 @@ Designed to be easy to instal, customise and expand upon. Using a modular approa
 * User reset password 
 * Basic Bootstrap Starter Template
 
-
-## Folder / File Structure
-
-
-* Config
-    * route.php
-* Controllers
-    * Auth.php
-    * BaseController.php
-    * Dashboard.php
-    * Home.php
-* Filters
-    * Auth.php
-* Models
-    * UsersModel.php
-    * LoginModel.php
-    * ForgotModel.php
-    * ResetPassword.php
-* Views
-  * Auth
-   * activateaccount.php
-   * forgotpassword.php
-  * welcome_message
-   
-
 ## Manual Instalation
 
 1.Download or clone the repo to your desktop or www folder.
